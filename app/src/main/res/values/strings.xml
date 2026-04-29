@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Smart Voice Assistant</string>
+
+    <!-- Main Screen -->
+    <string name="tap_to_start">Tap the microphone to start</string>
+    <string name="listening">Listening…</string>
+    <string name="processing">Processing…</string>
+    <string name="voice_activate">Voice Activate</string>
+    <string name="you_said">You said:</string>
+    <string name="response">Response:</string>
+
+    <!-- Language -->
+    <string name="language_settings">Language</string>
+    <string name="auto_detect">Auto-detect</string>
+    <string name="auto_detect_language">Auto-detect language</string>
+
+    <!-- History -->
+    <string name="command_history">Command History</string>
+    <string name="clear">Clear</string>
+    <string name="no_history">No commands yet. Try saying something!</string>
+    <string name="status">Status</string>
+
+    <!-- Settings -->
+    <string name="voice_settings">Voice</string>
+    <string name="speech_rate">Speech rate</string>
+    <string name="features">Features</string>
+    <string name="gesture_recognition">Hand gesture recognition</string>
+    <string name="offline_mode">Offline mode (basic commands)</string>
+    <string name="continuous_listening">Continuous listening (auto-restart)</string>
+    <string name="settings">Settings</string>
+    <string name="accessibility_settings">Accessibility Service</string>
+
+    <!-- Gesture -->
+    <string name="show_gesture">Show a hand gesture…</string>
+    <string name="gesture_camera">Gesture Camera</string>
+
+    <!-- Permissions -->
+    <string name="permission_required">Microphone permission is required for voice commands</string>
+    <string name="permissions_title">Permissions Required</string>
+    <string name="permissions_message">Smart Voice Assistant needs these permissions to work:</string>
+
+    <!-- Errors -->
+    <string name="error_no_speech">No speech detected. Please try again.</string>
+    <string name="error_network">Network error. Some features may not work offline.</string>
+    <string name="error_unknown_command">I didn\'t understand that. Please try again.</string>
+</resources>
